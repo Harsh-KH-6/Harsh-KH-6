@@ -2,7 +2,7 @@
 
 🎓 I'm currently an Information Technology undergraduate, passionate about learning and building cool stuff with code.
 
-💡 Exploring Frontend Development, Data Structures in Python, and AI tools for productivity. 
+💡 Exploring Frontend Development and AI tools for productivity. 
 
 🌐 I build websites as a hobby and love working on projects that solve real-world problems.  
 
