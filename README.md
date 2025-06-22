@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=👋+Hi+there%2C+I'm+Harsh!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Harsh" alt="Typing Hacker Theme" />
 </p>
 
 
