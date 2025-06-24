@@ -36,14 +36,10 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-KH-6&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+ ![](https://github-readme-stats.vercel.app/api?username=Harsh-kh-6&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harsh-kh-6&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-kh-6&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Harsh-KH-6&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-KH-6&layout=compact&theme=algolia&hide_border=true" width="50%" />
 
 </div>
 
