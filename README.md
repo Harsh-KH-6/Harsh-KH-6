@@ -53,29 +53,6 @@
 </div>
 
 ---
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-
-  <!-- 1) Full GitHub Stats card -->
-  ![](https://github-readme-stats.vercel.app/api?username=Harsh-kh-6&theme=react&hide_border=false)
-
-  <br/>
-
-  <!-- 2) Streak Stats: only total contributions and longest streak -->
-  ![](https://streak-stats.demolab.com/?user=Harsh-kh-6&theme=react&hide_border=false&hide_current_streak=true)
-
-  <br/>
-
-  <!-- 3) Top Languages card -->
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-kh-6&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-
-
-
----
 <h2 align="center">🚀 Profile Views</h2>
 
 <p align="center">
